@@ -13,7 +13,7 @@ It is capable of answering pricing queries using RAG (Retrieval Augmented Genera
 ## 🛠️ Tech Stack
 * **Language:** Python 3.9+
 * **Orchestration:** LangGraph (Stateful Agentic Workflow)
-* **LLM:** Google Gemini 1.5 Flash
+* **LLM:** Google Gemini 2.5 Flash
 * **Environment:** Dotenv for secure key management
 
 ---

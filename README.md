@@ -22,7 +22,7 @@ It is capable of answering pricing queries using RAG (Retrieval Augmented Genera
 
 1.  **Clone the Repository**
     ```bash
-    git clone <your-repo-url>
+    git remote add origin https://github.com/AbhayPadgaonkar/autostream-agent.git
     cd autostream_agent
     ```
 
